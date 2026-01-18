@@ -32,4 +32,4 @@ Para ello, analizo métricas de ventas y desempeño (ingresos, volumen, categor�
 ## Cómo ejecutar
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPO.git
+   git clone [https://github.com/Eduardomsj-cyber/Practicando-Python-para-Data-Science-Challenge-Alura-Store.git]
