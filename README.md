@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-brightgreen" alt="Status: En Finalizado">
+  <img src="https://img.shields.io/badge/STATUS-Finalizado-brightgreen" alt="Status: En Finalizado">
   <img src="https://img.shields.io/badge/Python-3.x-blue" alt="Python 3.x">
   <img src="https://img.shields.io/badge/Data%20Science-An%C3%A1lisis%20de%20Ventas-orange" alt="Data Science: Análisis de Ventas">
 </p>
